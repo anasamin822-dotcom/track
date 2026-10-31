@@ -1,4 +1,4 @@
-# Track - Simplify Money frontend assignment
+# Track
 
 React Native (Expo) app for the Track screen: every transaction across the
 user's accounts, month by month, with honest spend/income totals, merchant
